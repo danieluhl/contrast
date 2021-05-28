@@ -1,0 +1,30 @@
+{
+  "name": "contrast",
+  "version": "1.0.0",
+  "description": "color contrast utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danieluhl/contrast.git"
+  },
+  "keywords": [
+    "colors",
+    "contrast",
+    "a11y"
+  ],
+  "author": "Daniel Uhl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danieluhl/contrast/issues"
+  },
+  "homepage": "https://github.com/danieluhl/contrast#readme",
+  "devDependencies": {
+    "@babel/core": "^7.14.3",
+    "@babel/preset-env": "^7.14.2",
+    "babel-jest": "^27.0.1",
+    "jest": "^27.0.1"
+  }
+}
