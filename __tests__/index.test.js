@@ -1,5 +1,4 @@
 import { isAACompliant, isAAACompliant, getContrastRatio } from '../index.js';
-import { jest } from '@jest/globals';
 
 const WHITE = [255, 255, 255];
 const BLACK = [0, 0, 0];
