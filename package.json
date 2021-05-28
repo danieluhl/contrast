@@ -1,5 +1,5 @@
 {
-  "name": "contrast",
+  "name": "color-contrast-compliance",
   "version": "1.0.0",
   "description": "color contrast utils",
   "main": "index.js",
